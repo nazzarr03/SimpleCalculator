@@ -73,7 +73,5 @@ do
     
 } while (!validProcess);
 
-// switch-case kullanımı
-
 Console.WriteLine("İşlem sonucunuz : " + sonuc);
 
