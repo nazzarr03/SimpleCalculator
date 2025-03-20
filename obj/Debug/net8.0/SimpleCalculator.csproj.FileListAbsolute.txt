@@ -1,0 +1,14 @@
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.deps.json
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.runtimeconfig.json
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.dll
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.pdb
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.AssemblyInfoInputs.cache
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.AssemblyInfo.cs
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.csproj.CoreCompileInputs.cache
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.dll
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/refint/SimpleCalculator.dll
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.pdb
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.genruntimeconfig.cache
+/home/nazar/Desktop/RiderProjects/SimpleCalculator/obj/Debug/net8.0/ref/SimpleCalculator.dll
